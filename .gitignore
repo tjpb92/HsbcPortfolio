@@ -1,0 +1,9 @@
+# My .gitignore file
+
+HsbcPortfolio.prop
+*.xlsx
+*.json
+
+/nbproject/private/
+/build/
+/dist/
