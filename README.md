@@ -7,10 +7,14 @@ On essaye ensuite d’analyser les variations avec différents outils et de comp
 
 ## Utilisation:
 ```
-java HsbcPortfolio [-f file] [-d] [-t] 
+java HsbcPortfolio [[-b début] [-e fin]|[-n nbJour]] [-o fichier.xml] [-p path] [-d] [-t] 
 ```
 où :
-* ```-f file``` fichier Excel contenant les OPC suivis, par défaut *HsbcPortfolio.xlsx*, (*paramètre optionnel*),
+* ```-b début``` : date de début de l'extraction à 0h au format JJ/MM/AAAA. Amorcé à hier par défaut (paramètre optionnel).
+* ```-e fin``` : date de fin de l'extraction à 0h au format JJ/MM/AAAA. Amorcé à aujourd'hui par défaut (paramètre optionnel).
+* ```-n nbJour``` : précise le nombre de jour(s) à compter de la date courante. Non défini par défaut (paramètre optionnel).
+* ```-o fichier``` est le nom du fichier Excel contenant les OPC suivis, par défaut *HsbcPortfolio.xlsx* (paramètre optionnel).
+* ```-p path``` est le répertoire vers lequel exporter le fichier des résultats. Par défaut c'est le répertoire courant du programme (paramètre optionnel).
 * ```-d``` le programme s'exécute en mode débug, il est beaucoup plus verbeux. Désactivé par défaut (*paramètre optionnel*),
 * ```-t``` le programme s'exécute en mode test. Désactivé par défaut (*paramètre optionnel*).
 

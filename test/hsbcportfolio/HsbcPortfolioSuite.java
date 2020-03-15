@@ -11,10 +11,10 @@ import org.junit.runners.Suite;
  * Jeux de tests pour tester toute les classes du projet
  *
  * @author Thierry Baribaud
- * @version 0.02
+ * @version 0.03
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({hsbcportfolio.FundTest.class, hsbcportfolio.NavItemTest.class})
+@Suite.SuiteClasses({hsbcportfolio.FundTest.class, hsbcportfolio.NavItemTest.class, hsbcportfolio.TitreTest.class, hsbcportfolio.TitresTest.class})
 public class HsbcPortfolioSuite {
 
     @BeforeClass

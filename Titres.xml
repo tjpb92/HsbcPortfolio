@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Titres>
+    <Titre>
+        <Nom>"HSBC EE ACTIONS EURO 2"</Nom>
+        <AltId>"2037"</AltId>
+        <Id>"HFDF101"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE ACTIONS France 2"</Nom>
+        <AltId>"1956"</AltId>
+        <Id>"HFDF027"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE ACTIONS MONDE Responsable (F)"</Nom>
+        <AltId>"2045"</AltId>
+        <Id>"HFDF028"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE Actions Responsables (F)"</Nom>
+        <AltId>"2187"</AltId>
+        <Id>"HFDF029"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE DIV RESPONSABLE SOLIDAIRE F"</Nom>
+        <AltId>"2186"</AltId>
+        <Id>"HFDF030"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE DIVERSIFIE EMERGENTS (F)"</Nom>
+        <AltId>"2191"</AltId>
+        <Id>"HFDF095"</Id>
+        <Classe>"FCEUR"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE Dynamique F (C)"</Nom>
+        <AltId>"2030"</AltId>
+        <Id>"HFDF031"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE EQUILIBRE"</Nom>
+        <AltId>"1391"</AltId>
+        <Id>"HFDF032"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE MODERE"</Nom>
+        <AltId>"1947"</AltId>
+        <Id>"HFDF043"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE Monétaire F"</Nom>
+        <AltId>"2041"</AltId>
+        <Id>"HFDF044"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE Oblig Euro Responsables et Solidaire"</Nom>
+        <AltId>"2188"</AltId>
+        <Id>"HFDF048"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE OBLIGATIONS"</Nom>
+        <AltId>"1576"</AltId>
+        <Id>"HFDF047"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+    <Titre>
+        <Nom>"HSBC EE Obligations Euro CRT T(F)"</Nom>
+        <AltId>"2288"</AltId>
+        <Id>"HFDF094"</Id>
+        <Classe>"F"</Classe>
+    </Titre>
+</Titres>
